@@ -10,7 +10,7 @@ public class Matrices
 		
 		Scanner sc=new Scanner(System.in);
 		
-		System.out.println("Enter the no. of rows of first matrix:");
+        System.out.println("Enter the no. of rows of first matrix:");
         R1=sc.nextInt();
         
         System.out.println("Enter the no. of columns of first matrix:");
